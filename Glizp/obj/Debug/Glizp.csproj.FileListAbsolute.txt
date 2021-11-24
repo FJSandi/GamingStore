@@ -1,0 +1,159 @@
+C:\Users\Jafet\source\repos\Glizp\Glizp\obj\Debug\Glizp.csprojAssemblyReference.cache
+C:\Users\Jafet\source\repos\Glizp\Glizp\obj\Debug\Glizp.Properties.Resources.resources
+C:\Users\Jafet\source\repos\Glizp\Glizp\obj\Debug\Glizp.csproj.GenerateResource.cache
+C:\Users\Jafet\source\repos\Glizp\Glizp\bin\Debug\Glizp.exe.config
+C:\Users\Jafet\source\repos\Glizp\Glizp\bin\Debug\Glizp.exe
+C:\Users\Jafet\source\repos\Glizp\Glizp\bin\Debug\Glizp.pdb
+C:\Users\Jafet\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmLogin.resources
+C:\Users\Jafet\source\repos\Glizp\Glizp\obj\Debug\Glizp.exe
+C:\Users\Jafet\source\repos\Glizp\Glizp\obj\Debug\Glizp.pdb
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.csprojAssemblyReference.cache
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmLogin.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmPrincipal.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.Properties.Resources.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.csproj.GenerateResource.cache
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.exe
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.pdb
+C:\Users\Tutos\source\repos\Glizp\Glizp\bin\Debug\Glizp.exe.config
+C:\Users\Tutos\source\repos\Glizp\Glizp\bin\Debug\Glizp.exe
+C:\Users\Tutos\source\repos\Glizp\Glizp\bin\Debug\Glizp.pdb
+C:\Users\Tutos\source\repos\Glizp\Glizp\bin\Debug\BussinessLogic.dll
+C:\Users\Tutos\source\repos\Glizp\Glizp\bin\Debug\BussinessLogic.pdb
+C:\Users\Tutos\source\repos\Glizp\Glizp\bin\Debug\BussinessLogic.dll.config
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.csproj.CopyComplete
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmBiblioteca.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmRegistro.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\bin\Debug\Glizp.exe.config
+C:\Users\Xeints\source\repos\Glizp\Glizp\bin\Debug\Glizp.exe
+C:\Users\Xeints\source\repos\Glizp\Glizp\bin\Debug\Glizp.pdb
+C:\Users\Xeints\source\repos\Glizp\Glizp\bin\Debug\BussinessLogic.dll
+C:\Users\Xeints\source\repos\Glizp\Glizp\bin\Debug\BussinessLogic.pdb
+C:\Users\Xeints\source\repos\Glizp\Glizp\bin\Debug\BussinessLogic.dll.config
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.csprojAssemblyReference.cache
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmBiblioteca.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmLogin.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmPrincipal.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmRegistro.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.Properties.Resources.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.csproj.GenerateResource.cache
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.csproj.CoreCompileInputs.cache
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.csproj.CopyComplete
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.exe
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.pdb
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.Perfil.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmEditarPerfil.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmJuego.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.Perfil.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\bin\Debug\Glizp.exe.config
+C:\Users\Tutos\Downloads\Glizp\Glizp\bin\Debug\Glizp.exe
+C:\Users\Tutos\Downloads\Glizp\Glizp\bin\Debug\Glizp.pdb
+C:\Users\Tutos\Downloads\Glizp\Glizp\bin\Debug\BussinessLogic.dll
+C:\Users\Tutos\Downloads\Glizp\Glizp\bin\Debug\BussinessLogic.pdb
+C:\Users\Tutos\Downloads\Glizp\Glizp\bin\Debug\BussinessLogic.dll.config
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.csprojAssemblyReference.cache
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarCategoria.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarJuego.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarUsuario.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdminPrincipal.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmBiblioteca.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmEditarPerfil.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmJuego.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmLogin.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmPrincipal.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmRegistro.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.Formularios.Perfil.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.Properties.Resources.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.csproj.GenerateResource.cache
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.csproj.CopyComplete
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.exe
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.pdb
+C:\Users\Tutos\Downloads\Glizp\Glizp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\Downloads\Glizp\Glizp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.csproj.ResolveComReference.cache
+C:\Users\Tutos\source\repos\Glizp\Glizp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\source\repos\Glizp\Glizp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.csproj.ResolveComReference.cache
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarCategoria.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarJuego.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarUsuario.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdminPrincipal.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Xeints\source\repos\Glizp\Glizp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.csproj.ResolveComReference.cache
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarCategoria.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarJuego.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarUsuario.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdminPrincipal.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmEditarPerfil.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmJuego.resources
+C:\Users\Xeints\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarResenna.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarResenna.resources
+C:\Users\Tutos\source\repos\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarBiblioteca.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarBiblioteca.resources
+C:\Users\Tutos\Downloads\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarResenna.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\bin\Debug\Glizp.exe.config
+C:\Users\Tutos\Desktop\Glizp\Glizp\bin\Debug\Glizp.exe
+C:\Users\Tutos\Desktop\Glizp\Glizp\bin\Debug\Glizp.pdb
+C:\Users\Tutos\Desktop\Glizp\Glizp\bin\Debug\BussinessLogic.dll
+C:\Users\Tutos\Desktop\Glizp\Glizp\bin\Debug\BussinessLogic.pdb
+C:\Users\Tutos\Desktop\Glizp\Glizp\bin\Debug\BussinessLogic.dll.config
+C:\Users\Tutos\Desktop\Glizp\Glizp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\Desktop\Glizp\Glizp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.csprojAssemblyReference.cache
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.csproj.ResolveComReference.cache
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarBiblioteca.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarCategoria.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarJuego.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarResenna.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarUsuario.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdminPrincipal.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmBiblioteca.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmEditarPerfil.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmJuego.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmLogin.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmPrincipal.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmRegistro.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.Formularios.Perfil.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.Properties.Resources.resources
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.csproj.GenerateResource.cache
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.csproj.CopyComplete
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.exe
+C:\Users\Tutos\Desktop\Glizp\Glizp\obj\Debug\Glizp.pdb
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\bin\Debug\Glizp.exe.config
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\bin\Debug\Glizp.exe
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\bin\Debug\Glizp.pdb
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\bin\Debug\BussinessLogic.dll
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\bin\Debug\BussinessLogic.pdb
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\bin\Debug\BussinessLogic.dll.config
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.csprojAssemblyReference.cache
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.csproj.ResolveComReference.cache
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarCategoria.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarJuego.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarResenna.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdministrarUsuario.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.AdminForms.AdminPrincipal.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmBiblioteca.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmEditarPerfil.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmJuego.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmLogin.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmPrincipal.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.Formularios.FrmRegistro.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.Formularios.Perfil.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.Properties.Resources.resources
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.csproj.GenerateResource.cache
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.csproj.CoreCompileInputs.cache
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.csproj.CopyComplete
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.exe
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\Glizp\obj\Debug\Glizp.pdb

@@ -1,0 +1,26 @@
+C:\Users\Tutos\source\repos\Glizp\BussinessLogic\bin\Debug\BussinessLogic.dll.config
+C:\Users\Tutos\source\repos\Glizp\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\Tutos\source\repos\Glizp\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\Tutos\source\repos\Glizp\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Tutos\source\repos\Glizp\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\Tutos\source\repos\Glizp\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\Xeints\source\repos\Glizp\BussinessLogic\bin\Debug\BussinessLogic.dll.config
+C:\Users\Xeints\source\repos\Glizp\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\Xeints\source\repos\Glizp\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\Xeints\source\repos\Glizp\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Xeints\source\repos\Glizp\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\Xeints\source\repos\Glizp\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\Tutos\Downloads\Glizp\BussinessLogic\bin\Debug\BussinessLogic.dll.config
+C:\Users\Tutos\Downloads\Glizp\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\Tutos\Downloads\Glizp\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\Tutos\Downloads\Glizp\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Tutos\Downloads\Glizp\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\Tutos\Downloads\Glizp\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\Xeints\source\repos\Glizp\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\BussinessLogic\bin\Debug\BussinessLogic.dll.config
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\Jafet\Desktop\GLIZP PROYECTO\Glizp\BussinessLogic\obj\Debug\BussinessLogic.pdb

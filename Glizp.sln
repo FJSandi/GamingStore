@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glizp", "Glizp\Glizp.csproj", "{8623B0FE-CA50-493B-8E11-77DA56C03867}"
+	ProjectSection(ProjectDependencies) = postProject
+		{284439A8-F8B9-4FDF-904B-39525F84E06E} = {284439A8-F8B9-4FDF-904B-39525F84E06E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLogic", "BussinessLogic\BussinessLogic.csproj", "{284439A8-F8B9-4FDF-904B-39525F84E06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8623B0FE-CA50-493B-8E11-77DA56C03867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8623B0FE-CA50-493B-8E11-77DA56C03867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8623B0FE-CA50-493B-8E11-77DA56C03867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8623B0FE-CA50-493B-8E11-77DA56C03867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284439A8-F8B9-4FDF-904B-39525F84E06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284439A8-F8B9-4FDF-904B-39525F84E06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284439A8-F8B9-4FDF-904B-39525F84E06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284439A8-F8B9-4FDF-904B-39525F84E06E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EBF2341-C212-4B39-BE9D-002552CC6FDB}
+	EndGlobalSection
+EndGlobal
